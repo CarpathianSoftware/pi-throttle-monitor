@@ -3,6 +3,8 @@
 ## Overview
 The **Raspberry Pi Throttle Monitor** is a simple GUI-based tool that continuously monitors the system's throttling status. It uses the `vcgencmd get_throttled` command to check if the Raspberry Pi is experiencing voltage, frequency, or temperature-related issues.
 
+![UnderPi running on Raspberry Pi 5](screenshots/screenshot_underpi.png)
+
 ## Features
 - **Real-time Monitoring**: Automatically updates every few seconds (configurable).
 - **User-Friendly UI**: Displays eight status indicators in an organized layout.
